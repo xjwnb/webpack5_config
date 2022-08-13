@@ -1,0 +1,14 @@
+$bgColor: #808b96;
+
+body {
+  background-color: $bgColor;
+}
+
+.app {
+  user-select: none;
+  transition: all 2s ease;
+}
+
+.root {
+  color: #ffffff;
+}
